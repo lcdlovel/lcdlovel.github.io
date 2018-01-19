@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-19T05:41:30.951Z</updated>
+  <updated>2018-01-19T05:43:13.173Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/01/19/the%20One/"/>
     <id>http://yoursite.com/2018/01/19/the One/</id>
     <published>2018-01-19T05:40:24.667Z</published>
-    <updated>2018-01-19T05:41:30.951Z</updated>
+    <updated>2018-01-19T05:43:13.173Z</updated>
     
-    <content type="html"><![CDATA[<!doctype html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">    <meta http-equiv="X-UA-Compatible" content="ie=edge">    <title>Document</title></head><body>game</body></html>]]></content>
+    <content type="html"><![CDATA[<!doctype html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">    <meta http-equiv="X-UA-Compatible" content="ie=edge">    <title>Document</title></head><body>game<div style="width: 200px;height: 200px;background-color: orangered"></div></body></html>]]></content>
     
     <summary type="html">
     
