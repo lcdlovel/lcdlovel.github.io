@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c00d92a1-f0f3-44ff-9d54-5a22129c6809" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/2018/01/19/hello-world/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/default-skin/default-skin.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/default-skin/default-skin.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/default-skin/default-skin.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/default-skin/preloader.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/photoswipe-ui-default.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/photoswipe-ui-default.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/photoswipe.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/photoswipe.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/PhotoSwipe/photoswipe.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/cc/by.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/cc/cc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/cc/nc.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/cc/nd.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/cc/sa.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/css/perfect-scrollbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/css/perfect-scrollbar.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/js/min/perfect-scrollbar.jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/js/min/perfect-scrollbar.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/js/perfect-scrollbar.jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/perfect-scrollbar/js/perfect-scrollbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scripts/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/archive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/article.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/footer.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/highlight.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/libs/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/mobile-header.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/monochrome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/post-list.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/sidebar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/third-party.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/styles/variables.css" />
+      <change beforePath="$PROJECT_DIR$/2018/01/18/hello-world/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
+      <change beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/algolia_logo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/avatar.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc-nd.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc-sa.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nc.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-nd.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by-sa.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-by.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/cc-zero.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-16x16-next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/favicon-32x32-next.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/logo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/placeholder.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/quote-l.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/quote-r.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/searchicon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/src/affix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/algolia-search.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/exturl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/hook-duoshuo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/js.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/motion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/post-details.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/schemes/pisces.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/scroll-cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/src/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han-space.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han-space.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/font/han.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/Han/dist/han.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/canvas-nest/canvas-nest.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/canvas-ribbon/canvas-ribbon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/blank.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_loading@2x.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_overlay.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/fancybox_sprite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/fancybox_buttons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-media.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fancybox/source/jquery.fancybox.pack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/README.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/fastclick/lib/fastclick.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/HELP-US-OUT.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/CONTRIBUTING.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/README.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.lazyload.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/jquery_lazyload/jquery.scrollstop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/font-embedded.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/needsharebutton.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/needsharebutton/needsharebutton.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-barber-shop.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-big-counter.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-bounce.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-atom.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-circle.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-radar.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-center-simple.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-corner-indicator.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-fill-left.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-flash.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-loading-bar.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-mac-osx.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace-theme-minimal.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/pace/pace.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/three/canvas_lines.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/three/canvas_sphere.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/three/three-waves.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/three/three.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/ua-parser-js/dist/ua-parser.pack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/lib/velocity/velocity.ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/archives/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="atom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-207">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name=".deploy_git" type="b2602c69:ProjectViewProjectNode" />
+              <item name=".deploy_git" type="462c0819:PsiDirectoryNode" />
+              <item name="archives" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c00d92a1-f0f3-44ff-9d54-5a22129c6809" name="Default" comment="" />
+      <created>1516338361912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516338361912</updated>
+      <workItem from="1516338364713" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="112000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="20" width="1400" height="990" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/cc/by.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archives/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
