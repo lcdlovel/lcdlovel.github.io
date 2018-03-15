@@ -382,7 +382,23 @@
       
         
           
-            <p>## </p>
+            <h2 id="Node相较于其他后台语言的优势"><a href="#Node相较于其他后台语言的优势" class="headerlink" title="Node相较于其他后台语言的优势"></a>Node相较于其他后台语言的优势</h2><ol>
+<li>性能优势</li>
+<li>跟前台的js配合方便</li>
+<li>NodeJS便于前端学习</li>
+</ol>
+<h2 id="Nodejs-建立服务器"><a href="#Nodejs-建立服务器" class="headerlink" title="Nodejs 建立服务器"></a>Nodejs 建立服务器</h2><pre><code>const http =require(&apos;http&apos;); //http---协议（http rfc）
+
+var server =  http.createServer(function (req(&apos;请求信息&apos;) , res(&apos;响应信息&apos;)) {
+})
+
+//监听 --
+server.listen(8080)
+</code></pre><h4 id="createServer-中的两个参数"><a href="#createServer-中的两个参数" class="headerlink" title="createServer()中的两个参数"></a>createServer()中的两个参数</h4><ol>
+<li>req</li>
+<li>res</li>
+<li>文件操作：fs</li>
+</ol>
 
           
         

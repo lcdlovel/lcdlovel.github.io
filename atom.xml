@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-15T07:35:01.022Z</updated>
+  <updated>2018-03-15T09:06:35.817Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
@@ -16,16 +16,16 @@
     <link href="http://yoursite.com/2018/03/15/Node-js%E7%9A%84%E5%8E%86%E7%A8%8B/"/>
     <id>http://yoursite.com/2018/03/15/Node-js的历程/</id>
     <published>2018-03-15T07:24:55.000Z</published>
-    <updated>2018-03-15T07:35:01.022Z</updated>
+    <updated>2018-03-15T09:06:35.817Z</updated>
     
-    <content type="html"><![CDATA[<p>## </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Node相较于其他后台语言的优势"><a href="#Node相较于其他后台语言的优势" class="headerlink" title="Node相较于其他后台语言的优势"></a>Node相较于其他后台语言的优势</h2><ol><li>性能优势</li><li>跟前台的js配合方便</li><li>NodeJS便于前端学习</li></ol><h2 id="Nodejs-建立服务器"><a href="#Nodejs-建立服务器" class="headerlink" title="Nodejs 建立服务器"></a>Nodejs 建立服务器</h2><pre><code>const http =require(&apos;http&apos;); //http---协议（http rfc）var server =  http.createServer(function (req(&apos;请求信息&apos;) , res(&apos;响应信息&apos;)) {})//监听 --server.listen(8080)</code></pre><h4 id="createServer-中的两个参数"><a href="#createServer-中的两个参数" class="headerlink" title="createServer()中的两个参数"></a>createServer()中的两个参数</h4><ol><li>req</li><li>res</li><li>文件操作：fs</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;## &lt;/p&gt;
-
+        &lt;h2 id=&quot;Node相较于其他后台语言的优势&quot;&gt;&lt;a href=&quot;#Node相较于其他后台语言的优势&quot; class=&quot;headerlink&quot; title=&quot;Node相较于其他后台语言的优势&quot;&gt;&lt;/a&gt;Node相较于其他后台语言的优势&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;性能优势&lt;/li
       
     
     </summary>
